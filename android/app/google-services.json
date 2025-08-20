@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "518197336126",
+    "project_id": "moodmindapp",
+    "storage_bucket": "moodmindapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518197336126:android:492915a45ea2a9b49f996f",
+        "android_client_info": {
+          "package_name": "com.example.moodmind_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518197336126-bqj6tsgo49d8758qp2r5kc1ktvhg22i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9TxL2ZU_LA6kuhcILtQtZQpYC1s6EpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518197336126-bqj6tsgo49d8758qp2r5kc1ktvhg22i5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518197336126-lkufomao980sf1c4g5abr1mc2h9vpi5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moodmindNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518197336126:android:37ca0fe9e9f2853d9f996f",
+        "android_client_info": {
+          "package_name": "com.moodmind.consultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518197336126-bqj6tsgo49d8758qp2r5kc1ktvhg22i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe9TxL2ZU_LA6kuhcILtQtZQpYC1s6EpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518197336126-bqj6tsgo49d8758qp2r5kc1ktvhg22i5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518197336126-lkufomao980sf1c4g5abr1mc2h9vpi5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moodmindNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
